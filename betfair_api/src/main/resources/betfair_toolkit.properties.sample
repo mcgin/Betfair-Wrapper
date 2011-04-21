@@ -1,0 +1,8 @@
+GLOBAL_ENDPOINT=https://api.betfair.com/global/v3/BFGlobalService
+UK_ENDPOINT=https://api.betfair.com/exchange/v5/BFExchangeService
+UK_ID=1
+AU_ENDPOINT=https://api-au.betfair.com/exchange/v5/BFExchangeService
+AU_ID=2
+USER=username
+PASSWORD=password
+BETFAIR_PRODUCT_ID=82
